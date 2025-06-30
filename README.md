@@ -40,8 +40,7 @@ AWS already publishes the support calendar for those products.
 If you use one of these services and need to know when AWS will stop supporting your current version you can consult its calendar directly.
 
 * [Amazon Linux Release Cadence](https://docs.aws.amazon.com/linux/al2023/ug/release-cadence.html)
-* [Elasticache Redis supported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/engine-versions.html)
-* [Elasticache Memcached suppported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/supported-engine-versions-mc.html)
+* [Elasticache supported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/dg/engine-versions.html) (for Redis OSS and for Memcached)
 * [EKS Kubernetes release calendar](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
 * [Lambda supported runtimes](https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html) (major versions for all languages)
 * [Lambda runtime updates](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-update.html) (info to control patch versions)
