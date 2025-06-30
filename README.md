@@ -40,6 +40,7 @@ AWS already publishes the support calendar for those products.
 If you use one of these services and need to know when AWS will stop supporting your current version you can consult its calendar directly.
 
 * [Amazon Linux Release Cadence](https://docs.aws.amazon.com/linux/al2023/ug/release-cadence.html)
+* [Elastic Beanstalk platform release schedule](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/platforms-schedule.html) (upcoming branches, branches scheduled for retirement, and history of retired branches)
 * [Elasticache Redis supported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/supported-engine-versions.html)
 * [Elasticache Memcached suppported versions](https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/supported-engine-versions-mc.html)
 * [EKS Kubernetes release calendar](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
